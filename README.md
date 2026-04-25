@@ -33,10 +33,7 @@ export default {
   pronouns  : "he / him",
   origin    : "Dood",
   alignment : "chaotic neutral",
-  stack     : ["JavaScript", "TypeScript"],
-  weakness  : "undefined is not a function",
-  threat_level : "only to bad code",
-  last_seen : "somewhere between console.log and existential dread",
+  stack     : ["JavaScript", "TypeScript"],",
 } satisfies Villain;
 ```
 
