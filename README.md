@@ -21,18 +21,23 @@
 
 ---
 
-### `> whoami`
+### `⚔️ ~/villain.config`
 
 ```js
-const drex = {
-  alias     : "Drexuxux",
+/**
+ * ⚠️  WARNING: unauthorised access will be met with elegance.
+ */
+
+export default {
+  identity  : "Drexuxux",          // not a hero. not a villain. just him.
   pronouns  : "he / him",
-  location  : "Dood",
-  status    : "somewhere between alive and git push",
-  languages : ["JavaScript", "TypeScript"],
-  interests : ["dark aesthetics", "building things", "the abyss"],
-  motto     : "if it works, don't touch it. if it doesn't, blame node_modules.",
-};
+  origin    : "Dood",
+  alignment : "chaotic neutral",
+  stack     : ["JavaScript", "TypeScript"],
+  weakness  : "undefined is not a function",
+  threat_level : "only to bad code",
+  last_seen : "somewhere between console.log and existential dread",
+} satisfies Villain;
 ```
 
 ---
