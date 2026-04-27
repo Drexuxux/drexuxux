@@ -17,55 +17,7 @@
   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
-</div>
 
----
-
-### `⚔️ ~/villain.config`
-
-```js
-/**
- * ⚠️  WARNING: unauthorised access will be met with elegance.
- */
-
-export default {
-  identity  : "Drexuxux",          // not a hero. not a villain. just him.
-  pronouns  : "he / him",
-  origin    : "Dood",
-  alignment : "chaotic neutral",
-  stack     : ["JavaScript", "TypeScript"],",
-} satisfies Villain;
-```
-
----
-
-### `> ls ./stack`
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-
-</div>
-
----
-
-### `> cat ./activity.log`
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Drexuxux&theme=ads-dark&hide_border=true&background=00000000&ring=A855F7&fire=A855F7&currStreakLabel=A855F7)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
-```
 ⠀⠀⠀⠀⠀⠀⣀⣤⣤⣀⠀⠀⠀
 ⠀⠀⠀⣠⣾⡿⠿⠿⢿⣿⣷⣄⠀
 ⠀⠀⣼⣿⠋⠀💀⠀⠙⣿⣧⠀
@@ -76,10 +28,4 @@ export default {
   still loading... ▓▓▓▓▓▓▓░░░ 77%
 ```
 
-</div>
 
----
-
-<div align="center">
-<sub>⚡ <i>the code compiles. the soul does not.</i> ⚡</sub>
-</div>
